@@ -57,6 +57,13 @@ Pull request and add any feature to the website.:octocat:
   
 
 ## Github Contribution Rules
+    
+    Please ensure your pull request adheres to the following guidelines:
+
+- Start the Name with a capital.
+- Check your spelling and grammar.
+- Make sure your text editor is set to remove trailing whitespace.(Mandatory)
+Steps for adding your name in `Developers.md`
 - Pull requests can be submitted to any opted-in repository on GitHub or GitLab.
 - The pull request must contain commits you made yourself.
 - If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
@@ -64,9 +71,7 @@ Pull request and add any feature to the website.:octocat:
 - To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
 - This year, the first 50,000 participants can earn a T-shirt.
 ---
-
-Steps for adding your name below
-
+    
     1. Fork this repo
     2. Edit `Developers.md` file
     3. Add your Name also link your github profile
