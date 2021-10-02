@@ -1,4 +1,4 @@
-<h1 align="center">This is a  <a href="https://satyasharma73.github.io/AlgoViz/">Sorting Algorithm Visualizer </a> AKA AlgoVizard</h1>
+<h1 align="center">This is a  <a href="https://SatyaSharma73.github.io/AlgoVizard/">Sorting Algorithm Visualizer </a> AKA AlgoVizard</h1>
 <h3 align="center"></h3>
 
 Sorting Algorithm Visualizer is a Web-enabled,Responsive, Mobile compatible
@@ -20,7 +20,7 @@ Sorting Algorithm Visualizer is a Web-enabled,Responsive, Mobile compatible
 <div align="center">
 <img src="https://img.shields.io/badge/hacktoberfest-2021-blueviolet" alt="Hacktober Badge"/>
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
- <a href="https://github.com/keshavsingh4522" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
+ <a href="https://github.com/SatyaSharma73" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 </div>
 
 <center>:sparkles:<h4>1 OCTOBER - 31 OCTOBER</h4>:sparkles:<center>
@@ -28,7 +28,7 @@ Pull request and add any feature to the website.:octocat:
     
   
   
-* [Click here to visit the website.](https://rakshit234.github.io/HacktoberFest2021/)
+* [Click here to visit the website.](https://SatyaSharma73.github.io/AlgoVizard/)
 * [Click here to register for hacktoberfest2020.](https://hacktoberfest.digitalocean.com/)
 
   <br />
@@ -47,28 +47,27 @@ Pull request and add any feature to the website.:octocat:
 - Can also focus on motivating others to plant a tree this hacktoberfest'20.
   
 
-
-  
 ![1](https://user-images.githubusercontent.com/71933842/123501185-a649f000-d660-11eb-8861-3bbc0f99dfcc.JPG)
 ![2](https://user-images.githubusercontent.com/71933842/123501186-a6e28680-d660-11eb-873c-cfb6414ce913.JPG)
 ![3](https://user-images.githubusercontent.com/71933842/123501187-a813b380-d660-11eb-838d-a1ad6117d11b.JPG)
 
 
-
-
-
-
 <br />
 
   
-## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+## Github Contribution Rules
+- Pull requests can be submitted to any opted-in repository on GitHub or GitLab.
+- The pull request must contain commits you made yourself.
+- If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
+- If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
+- To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
+- This year, the first 50,000 participants can earn a T-shirt.
+---
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Steps for adding your name below
 
-
+    1. Fork this repo
+    2. Edit `CONTRIBUTERS.md` file
+    3. Add your Name also link your github profile
+    4. Make pull request
