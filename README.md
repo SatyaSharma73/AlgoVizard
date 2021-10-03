@@ -1,4 +1,4 @@
-<h1 align="center">This is a  <a href="https://SatyaSharma73.github.io/AlgoVizard/">Sorting Algorithm Visualizer </a> AKA AlgoVizard</h1>
+<h1 align="center">This is a  <a href="https://satyasharma73.github.io/Hacktoberfest2021_AlgoVizard/">Sorting Algorithm Visualizer </a> AKA AlgoVizard</h1>
 <h3 align="center"></h3>
 
 Sorting Algorithm Visualizer is a Web-enabled,Responsive, Mobile compatible
@@ -28,7 +28,7 @@ Pull request and add any feature to the website.:octocat:
     
   
   
-* [Click here to visit the website.](https://SatyaSharma73.github.io/AlgoVizard/)
+* [Click here to visit the website.](https://satyasharma73.github.io/Hacktoberfest2021_AlgoVizard/)
 * [Click here to register for hacktoberfest2020.](https://hacktoberfest.digitalocean.com/)
 
   <br />
