@@ -41,3 +41,7 @@ Scan through our existing issues to find one that interests you. You can narrow 
 Congratulations
 
 Once your PR is merged, your contributions will be visible publicly
+
+#### NOTE
+Don't make anybody's life difficult, do check what you merge.
+Ideally, please create an issue and wait till you get assigned and issue.
