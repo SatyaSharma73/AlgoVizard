@@ -433,3 +433,30 @@ a {
   }
 
 }
+
+/* for sort description  - Shivam36998 */
+.description-box{
+  color: #222;
+  padding: 10px;
+  font-size: 18px;
+  width: 90vw;
+  margin: 0 auto;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+.description-heading{
+  margin-top: 50px;
+  text-align: center;
+  font-size: 34px;
+  font-weight: 700;
+}
+.code-area{
+  width: 80vw;
+  background-color: #222;
+  color: rgb(101, 241, 176);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  overflow-x: scoll;
+}
