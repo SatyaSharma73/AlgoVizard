@@ -105,8 +105,11 @@ async function mergeSort(ele, l, r){
 }
 
 var audio5 = new Audio('game.mp3');
+const header3 = document.getElementById("mergebtn");
 const mergeSortbtn = document.querySelector(".mergeSort");
 mergeSortbtn.addEventListener('click', async function(){
+    header3.style.background = '#007bff';
+    header3.style.color = 'white';
     audio5.play();
     let ele = document.querySelectorAll('.bar');
     let l = 0;
@@ -122,4 +125,6 @@ mergeSortbtn.addEventListener('click', async function(){
 
     audio5.pause();
     audio5.currentTime = 0;
+    header3.style.background = 'white';
+    header3.style.color = 'blue';
 });

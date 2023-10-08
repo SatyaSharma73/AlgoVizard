@@ -32,8 +32,12 @@ async function insertion(){
     }
 }
 var audio3 = new Audio('aekasora.mp3');
+const header2 = document.getElementById("insertionbtn");
+
 const inSortbtn = document.querySelector(".insertionSort");
 inSortbtn.addEventListener('click', async function(){
+    header2.style.background = '#007bff';
+    header2.style.color = 'white';
     audio3.play();
     disableSortingBtn();
     disableSizeSlider();
@@ -46,4 +50,6 @@ inSortbtn.addEventListener('click', async function(){
 
         audio3.pause();
         audio3.currentTime = 0;
+    header2.style.background = 'white';
+    header2.style.color = 'blue';
 });

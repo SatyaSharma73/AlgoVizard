@@ -34,10 +34,13 @@ async function selection(){
     }
 }
 var audio2 = new Audio('kerusu.mp3');
+const header = document.getElementById("selectionbtn");
 audio2.volume = 0.1;
 
 const selectionSortbtn = document.querySelector(".selectionSort");
 selectionSortbtn.addEventListener('click', async function(){
+    header.style.background = '#007bff';
+    header.style.color = 'white';
     audio2.play();
     disableSortingBtn();
     disableSizeSlider();
@@ -49,5 +52,6 @@ selectionSortbtn.addEventListener('click', async function(){
 
     audio2.pause();
     audio2.currentTime = 0;
-
+    header.style.background = 'white';
+    header.style.color = 'blue';
 });

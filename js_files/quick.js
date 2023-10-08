@@ -63,9 +63,12 @@ async function quickSort(ele, l, r){
 }
 
 var audio4 = new Audio('kira.mp3');
+const header4 = document.getElementById("quickbtn");
 const quickSortbtn = document.querySelector(".quickSort");
 quickSortbtn.addEventListener('click', async function(){
-  audio4.play();
+    header4.style.background = '#007bff';
+    header4.style.color = 'white';
+    audio4.play();
     let ele = document.querySelectorAll('.bar');
     let l = 0;
     let r = ele.length - 1;
@@ -79,4 +82,6 @@ quickSortbtn.addEventListener('click', async function(){
 
     audio4.pause();
     audio4.currentTime = 0;
+    header4.style.background = 'white';
+    header4.style.color = 'blue';
 });

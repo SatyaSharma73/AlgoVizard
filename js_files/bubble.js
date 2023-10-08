@@ -21,9 +21,12 @@ async function bubble() {
 }
 
 var audio1 = new Audio('ac2.mp3');
+const header1 = document.getElementById("bubblebtn");
 
 const bubSortbtn = document.querySelector(".bubbleSort");
 bubSortbtn.addEventListener('click', async function(){
+    header1.style.background = '#007bff';
+    header1.style.color = 'white';
     audio1.play();
     disableSortingBtn();
     disableSizeSlider();
@@ -34,6 +37,7 @@ bubSortbtn.addEventListener('click', async function(){
     enableNewArrayBtn();
     audio1.pause();
     audio1.currentTime = 0;
-
+    header1.style.background = 'white';
+    header1.style.color = 'blue';
 
 });
